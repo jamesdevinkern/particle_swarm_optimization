@@ -1,5 +1,5 @@
 # Particle Swarm Optimization
-My particle swarm optimization implemented as part of an engineering project. Any information related to the details of the project have been removed - what is left is just the framework for the PSO algorithm.
+My particle swarm optimization algorithm implemented as part of an engineering project. Any information related to the details of the project have been removed - what is left is just the framework for the PSO algorithm.
 
 Thanks,
 

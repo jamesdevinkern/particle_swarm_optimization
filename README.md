@@ -5,4 +5,4 @@ Thanks,
 
 James
 
-![](https://github.com/jamesdevinkern/particle_swarm_optimization/blob/main/pso_example.gif)
+![](https://github.com/jamesdevinkern/particle_swarm_optimization/blob/main/lib/pso_example.gif)
